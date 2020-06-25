@@ -12,7 +12,7 @@ rmarkdown::render(input = "resume.Rmd",
 rmarkdown::render(input = "resume.Rmd",
                   output_file = "pdf.html",
                   output_options = list(
-                    css = c('css/custom_resume.css', 'css/styles_pdf.css', 'resume'),
+                    css = c('css/custom_resume.css', 'css/styles_html.css', 'resume'),
                     self_contained = TRUE
                   ),
                   params = list(

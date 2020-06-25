@@ -6,7 +6,7 @@ This repo has all the code and data to render my resume in R with [pagedown pack
 
 The main files are:
 
-- *update_resume.R* : R script that renders the Rmarkdown document twice, once for HTML version and once for PDF version. This ensures both versions are always the same. (The current different is *HTML* version has the *download PDF button* and *PDF* version is in black and white color scheme)
+- *update_resume.R* : R script that renders the Rmarkdown document twice, once for HTML version and once for PDF version. This ensures both versions are always the same. (The current difference is *HTML* version has the *download PDF button*)
 - *resume.Rmd*: Source template for both the PDF and HTML versions, based on the YAML Paramater doctype
 - *index.html*: The final output of the template when the parameter doctype is set to HTML.
 - *output/Frank-Zhang-CV.pdf*: Result for PDF version. Note, this version has a different CSS styling sheet and is in black and white for more consistent printing.

@@ -143,3 +143,11 @@ Professional Experience {data-icon=suitcase}
 print_section(position_data, 'work')
 ```
 
+
+
+<i class="fas fa-rocket"></i> Professional Development
+--------------------------------------------------------------------------------
+
+```{r development}
+print_section(position_data, 'development')
+```
