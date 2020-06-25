@@ -24,5 +24,5 @@ rmarkdown::render(input = "resume_pdf.Rmd",
 pagedown::chrome_print(input = "pdf.html",
                        output = "output/Frank-Zhang-CV.pdf")
 
-fs::file_copy("vitae.html","E:/work project/ding-rui.org/content/vitae.html",overwrite = TRUE)
+fs::file_copy("output/vitae.html","index.html",overwrite = TRUE)
 
