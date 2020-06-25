@@ -54,13 +54,7 @@ Contact {#contact}
 - <i class="fas fa-home"></i> [ding-rui.org](https://www.ding-rui.org/)
 
 
-```{r download}
-# if doctype is html add link to download a pdf version
-if(params$doctype == "HTML"){
-  cat("[<i class='fas fa-download'></i> Download as a PDF](https://github.com/mleary/resume/raw/master/mleary_resume.pdf)")
-}
 
-```
 
 
 
@@ -119,12 +113,11 @@ Main
 Dingrui(Frank) Zhang {#title}
 --------------------------------------------------------------------------------
 
-### Data Analyst  |  R Developer
+### Business Analyst  |  R Developer
 
 I enjoy working with data to solve business problems and build tools that help
-people.  My favorite part of working in data science is the constant oppurtunity 
-to learn, from statistics to software development. Previously, I worked in public
-policy and public relations.
+people. My favorite part of working in data science is the constant opportunity 
+to learn, from statistics to real business problems.
 
 
 
