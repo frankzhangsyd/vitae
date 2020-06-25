@@ -14,3 +14,15 @@ The main files are:
 - *css/*: Directory containing the custom CSS files used to tweak the default resume format from pagedown.
 
 Shout out to Nick Strayer and Matt Leary. I heavily borrowed from their code and approach. See the original here http://nickstrayer.me/cv/ and https://www.mattleary.com/resume/
+
+# Approach of setting under yourdomain/vitae
+
+1. The *index.html* need to be self-contained. It seems have error when you redirect page through Netlify. The `css` and `img` are not redirected correctly.
+
+2. Add *_redirects* in your *static* folder if you are using *Hugo*
+
+The *_redirects* should be a raw text file containing the following 
+
+```
+/vitae              your-single-netlify-hosting-url              200
+```
