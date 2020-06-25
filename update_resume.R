@@ -1,4 +1,4 @@
-rmarkdown::render(input = "resume_html.Rmd",
+rmarkdown::render(input = "resume.Rmd",
                   output_file = "output/vitae.html",
                   output_options = list(
                     css = c('css/custom_resume.css', 'css/styles_html.css', 'resume'),
@@ -9,10 +9,10 @@ rmarkdown::render(input = "resume_html.Rmd",
                   )
             )
 
-rmarkdown::render(input = "resume_html.Rmd",
+rmarkdown::render(input = "resume.Rmd",
                   output_file = "pdf.html",
                   output_options = list(
-                    css = c('css/custom_resume.css', 'css/styles_html.css', 'resume'),
+                    css = c('css/custom_resume.css', 'css/styles_pdf.css', 'resume'),
                     self_contained = TRUE
                   ),
                   params = list(
