@@ -9,7 +9,7 @@ The main files are:
 - *update_resume.R* : R script that renders the Rmarkdown document twice, once for HTML version and once for PDF version. This ensures both versions are always the same. (The current difference is *HTML* version has the *download PDF button*)
 - *resume.Rmd*: Source template for both the PDF and HTML versions, based on the YAML Paramater doctype
 - *index.html*: The final output of the template when the parameter doctype is set to HTML.
-- *output/Frank-Zhang-CV.pdf*: Result for PDF version. Note, this version has a different CSS styling sheet and is in black and white for more consistent printing.
+- *output/Frank-Zhang-CV.pdf*: Result for PDF version.
 - *resume_data.xlsx*: An excel file with my work and skills data.
 - *css/*: Directory containing the custom CSS files used to tweak the default resume format from pagedown.
 
@@ -17,7 +17,7 @@ Shout out to Nick Strayer and Matt Leary. I heavily borrowed from their code and
 
 # Approach of setting under yourdomain/vitae
 
-1. The *index.html* need to be self-contained. It seems have error when you redirect page through Netlify. The `css` and `img` are not redirected correctly.
+1. The *index.html* should be your vitae html. It can be either self-contained or not.
 
 2. Add *_redirects* in your *static* folder if you are using *Hugo*
 
@@ -26,3 +26,10 @@ The *_redirects* should be a raw text file containing the following
 ```
 /vitae              your-single-netlify-hosting-url              200
 ```
+
+If your *index.html* is not self contained, you also need to set up redirect for static assets like CSS and images.
+```
+/static/*          your-single-netlify-hosting-url/static/:splat              200
+```
+
+
