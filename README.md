@@ -29,7 +29,10 @@ The *_redirects* should be a raw text file containing the following
 
 If your *index.html* is not self contained, you also need to set up redirect for static assets like CSS and images.
 ```
-/static/*          your-single-netlify-hosting-url/static/:splat              200
+/index_files/*          your-single-netlify-hosting-url/index_files/:splat              200!
+/styles_pdf.css          your-single-netlify-hosting-url/styles_pdf.css              200!
+/custom_resume.css          your-single-netlify-hosting-url/custom_resume.css             200!
+/styles_html.css          your-single-netlify-hosting-url/styles_html.css             200!
 ```
 
 
