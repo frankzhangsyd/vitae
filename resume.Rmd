@@ -123,7 +123,7 @@ Dingrui(Frank) Zhang {#title}
 
 I enjoy working with data to solve business problems and build tools that help
 people. My favorite part of working in data science is the constant opportunity 
-to learn, from statistics to real business problems.
+to learn, from statistics and software development to real business problems.
 
 
 

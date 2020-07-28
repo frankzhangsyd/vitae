@@ -1,8 +1,3 @@
-#author: matt leary
-#date:11/10/2019
-#intent: helper functions for resume built with R pagedown
-
-# Construct a bar chart of skills
 build_skill_bars <- function(skill_data, section_title) {
   skill_data %>%  
     filter(section == section_title) %>% 
