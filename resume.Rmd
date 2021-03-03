@@ -119,11 +119,10 @@ Main
 Dingrui(Frank) Zhang {#title}
 --------------------------------------------------------------------------------
 
-### Business Analyst  |  R Developer
+### Data Analyst  |  Accountant
 
 I enjoy working with data to solve business problems and build tools that help
-people. My favorite part of working in data science is the constant opportunity 
-to learn, from statistics and software development to real business problems as well as to use tools to communicate insights with people and help them make decisions.
+people. My favorite part of working in both data and finance area is the constant opportunity to learn, from statistics and software development to real business problems as well as to use tools to communicate insights with people and help them make decisions.  
 
 
 
