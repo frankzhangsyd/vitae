@@ -46,7 +46,7 @@ Contact {#contact}
 --------------------------------------------------------------------------------
 
 
-- <i class="fa fa-map-marked-alt"></i> Frank Zhang
+- <i class="fas fa-user"></i> Frank Zhang
 - <i class="fa fa-phone"></i> +61 0414-350-521
 - <i class="fa fa-envelope"></i> zhang@ding-rui.org
 - <i class="fa fa-github"></i> [github.com/frankzhangsyd](https://github.com/frankzhangsyd){target="_blank"} 
