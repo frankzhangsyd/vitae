@@ -67,7 +67,7 @@ if(params$doctype == "HTML"){
 <br>
 
 
-Coding {#coding}
+Analytics {#Analytics}
 --------------------------------------------------------------------------------
 
 ```{r coding, dev.args=list(bg = 'transparent')}
@@ -79,13 +79,13 @@ build_skill_bars(skill_data, "coding")
 
 <br>
 
-Visualization {#Visualization}
+Tools {#Tools}
 --------------------------------------------------------------------------------
 
 ```{r visualization, dev.args = list(bg = 'transparent')}
 
 # function from helper_functions.R
-build_skill_bars(skill_data, "visuals")
+build_skill_bars(skill_data, "Tools")
 
 ```
 
@@ -119,9 +119,9 @@ Main
 Dingrui(Frank) Zhang {#title}
 --------------------------------------------------------------------------------
 
-### Data    |    Finance
+### Data | Finance
 
-My favourite part of working in both data and finance area is the constant opportunity to learn, from statistics and coding to real business problems as well as to use tools to communicate insights with my clients and help them make decisions. I currently envision a career where I will feel rewarded, not just remunerated, for my efforts. Therefore, I wish to see myself getting things done and coming out with a sense of achievement, every day.
+My favourite part of working in data area is the constant opportunity to learn, from data analytics to real business problems as well as to use tools to communicate insights with my clients and help them make decisions. I currently envision a career where I will feel rewarded, not just remunerated, for my efforts. Therefore, I wish to see myself getting things done and coming out with a sense of achievement, every day.
 
 
 
