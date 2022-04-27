@@ -119,7 +119,7 @@ Main
 Dingrui(Frank) Zhang {#title}
 --------------------------------------------------------------------------------
 
-### Data | Finance
+### Data | Business
 
 My favourite part of working in data area is the constant opportunity to learn, from data analytics to real business problems as well as to use tools to communicate insights with my clients and help them make decisions. I currently envision a career where I will feel rewarded, not just remunerated, for my efforts. Therefore, I wish to see myself getting things done and coming out with a sense of achievement, every day.
 
@@ -143,9 +143,11 @@ print_section(position_data, 'work')
 
 
 
-<i class="fas fa-rocket"></i> Professional Development
+<i class="fas fa-rocket"></i> Professional Development/Projects
 --------------------------------------------------------------------------------
 
 ```{r development}
 print_section(position_data, 'development')
 ```
+
+
