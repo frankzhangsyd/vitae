@@ -57,7 +57,7 @@ Contact {#contact}
 ```{r download, echo=FALSE}
 # if doctype is html add link to download a pdf version
 if(params$doctype == "HTML"){
-  cat("[<i class='fas fa-download'></i> Download as a PDF](https://github.com/frankzhangsyd/vitae/raw/master/output/Frank-Zhang-CV.pdf)")
+  cat("[<i class='fas fa-download'></i> Download this vitae as a PDF](https://github.com/frankzhangsyd/vitae/raw/master/output/Frank-Zhang-CV.pdf)")
 }
 
 ```
