@@ -67,44 +67,20 @@ if(params$doctype == "HTML"){
 <br>
 
 
-Analytics {#Analytics}
+Skills {#Skills}
 --------------------------------------------------------------------------------
 
 ```{r coding, dev.args=list(bg = 'transparent')}
 
 # function from helper_functions.R
-build_skill_bars(skill_data, "coding")
-
-```
-
-<br>
-
-Tools {#Tools}
---------------------------------------------------------------------------------
-
-```{r visualization, dev.args = list(bg = 'transparent')}
-
-# function from helper_functions.R
-build_skill_bars(skill_data, "Tools")
-
-```
-
-<br>
-
-Strength {#Strength}
---------------------------------------------------------------------------------
-
-```{r strength, dev.args = list(bg = 'transparent')}
-
-# function from helper_functions.R
-build_skill_bars(skill_data, "software")
+build_skill_bars(skill_data, "Skills")
 
 ```
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-Made w/ [**pagedown**](https://github.com/rstudio/pagedown){target="_blank"}.   
+This resume was created using the **R** language.   
 Source code: [**Github repo**](https://github.com/frankzhangsyd/vitae){target="_blank"}.
 
 Last updated on `r Sys.Date()`.
@@ -119,9 +95,10 @@ Main
 Dingrui(Frank) Zhang, CA {#title}
 --------------------------------------------------------------------------------
 
-### Data | Business
-
-My favourite part of working in data area is the constant opportunity to learn, from data analytics to real business problems as well as to use tools to communicate insights with my clients and help them make decisions. I currently envision a career where I will feel rewarded, not just remunerated, for my efforts. Therefore, I wish to see myself getting things done and coming out with a sense of achievement, every day.
+* Experienced data analytics professional (qualified chartered accountant) with 6 years of expertise in leveraging data for business insights and decision-making.
+* Successful track record leading analytical teams and collaborating across functions.
+* Highly skilled in cloud computing, ETL, data analytics, and business intelligence reporting.
+* Effective communication and presentation skills for conveying technical information to non-technical stakeholders.
 
 
 
