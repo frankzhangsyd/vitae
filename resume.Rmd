@@ -49,9 +49,7 @@ Contact {#contact}
 - <i class="fas fa-user"></i> Frank Zhang
 - <i class="fa fa-phone"></i> +61 0414-350-521
 - <i class="fa fa-envelope"></i> zhang@ding-rui.org
-- <i class="fa fa-github"></i> [github.com/frankzhangsyd](https://github.com/frankzhangsyd){target="_blank"} 
-- <i class="fab fa-linkedin-in"></i> [Dingrui(Frank) Zhang](https://www.linkedin.com/in/dingrui-zhang/){target="_blank"} 
-- <i class="fas fa-home"></i> [ding-rui.org](https://www.ding-rui.org/){target="_blank"} 
+- <i class="fab fa-linkedin-in"></i> [Dingrui(Frank) Zhang](https://www.linkedin.com/in/dingrui-zhang/){target="_blank"}
 
 
 ```{r download, echo=FALSE}
@@ -96,7 +94,7 @@ Dingrui(Frank) Zhang, CA {#title}
 --------------------------------------------------------------------------------
 
 * An experienced data analytics professional (also a qualified chartered accountant) with 6 years of expertise in leveraging data for business insights and decision-making.
-* Highly skilled in data analytics, data visualization, and business intelligence reporting.
+* Highly skilled in data warehousing, data analytics, data visualization, and business intelligence reporting.
 * Effective skills and strong business acumen to strategically solve complex business problems with non-technical stakeholders.
 * A successful track record in leading analytical teams and collaborating across business functions.
 
