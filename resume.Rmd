@@ -90,14 +90,13 @@ Main
 ================================================================================
 
 
-Dingrui(Frank) Zhang, CA {#title}
+Frank Zhang, CA {#title}
 --------------------------------------------------------------------------------
 
-* An experienced data analytics professional (also a qualified chartered accountant) with 6 years of expertise in leveraging data for business insights and decision-making.
-* Highly skilled in data warehousing, data analytics, data visualization, and business intelligence reporting.
-* Effective skills and strong business acumen to strategically solve complex business problems with non-technical stakeholders.
-* A successful track record in leading analytical teams and collaborating across business functions.
-
+* Seasoned data analytics/engineering expert and chartered accountant, boasting six years of experience in harnessing data for critical business insights and strategic decision-making.
+* Proficient in the realms of data warehousing, ELT processes, data analysis, visualization, and crafting insightful business intelligence reports.
+* Exhibits a robust blend of sharp analytical skills and business savvy, adept at addressing complex business challenges in collaboration with non-technical teams.
+* Proven leadership abilities in steering data-focused teams and forging effective cross-functional collaborations.
 
 
 Education {data-icon=graduation-cap data-concise=true}
