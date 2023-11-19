@@ -68,12 +68,17 @@ if(params$doctype == "HTML"){
 Skills {#Skills}
 --------------------------------------------------------------------------------
 
-```{r coding, dev.args=list(bg = 'transparent')}
+**Data Analytics:**SQL, Python, R, Alteryx<br>
+**Data Visualization:**PowerBI, Qlik, Tableau<br>
+**Cloud:**AWS, GCP, Azure<br>
+**Other Techniques:**Git, Devops, Excel, VBA, Javascript<br>
+**Business Acumen**<br>
+**Communication**<br>
+**Leadership/Management**
 
-# function from helper_functions.R
-build_skill_bars(skill_data, "Skills")
 
-```
+
+
 
 <!-- Disclaimer {#disclaimer} -->
 <!-- -------------------------------------------------------------------------------- -->
