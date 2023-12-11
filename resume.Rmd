@@ -48,7 +48,7 @@ Contact {#contact}
 
 - <i class="fas fa-user"></i> Frank Zhang
 - <i class="fa fa-phone"></i> +61 0414-350-521
-- <i class="fa fa-envelope"></i> zhang@ding-rui.org
+- <i class="fa fa-envelope"></i> frank.dingrui@gmail.com
 - <i class="fab fa-linkedin-in"></i> [Dingrui(Frank) Zhang](https://www.linkedin.com/in/dingrui-zhang/){target="_blank"}
 
 
